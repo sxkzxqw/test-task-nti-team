@@ -4,6 +4,7 @@ import Slider from '../Slider/Slider';
 import Categories from '../Categories/Categories';
 import OurBest from '../OurBest/OurBest';
 import LatestNews from '../LatestNews/LatestNews';
+import Form from '../Form/Form';
 
 const Main = () => {
     return (
@@ -12,6 +13,7 @@ const Main = () => {
             <Categories />
             <OurBest />
             <LatestNews />
+            <Form />
         </main>
     );
 };
