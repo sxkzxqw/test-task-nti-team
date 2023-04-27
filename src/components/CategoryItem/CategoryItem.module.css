@@ -1,0 +1,45 @@
+.item {
+    width: 440px;
+    height: 371px;
+    border-radius: 20px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+    cursor: pointer;
+}
+
+.number {
+    font-style: normal;
+    font-weight: 100;
+    font-size: 25px;
+    line-height: 150%;
+    color: #292D32;
+}
+
+.tovar {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+    color: #838383;
+}
+
+.name {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 150%;
+    color: #292D32;
+}
+
+.tovari {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.img {
+    max-width: 300px;
+    max-height: 180px;
+    align-self: center;
+}

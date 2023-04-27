@@ -1,0 +1,94 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 26px 260px;
+    width: 100%;
+}
+
+.nav_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+
+.nav_links_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+}
+
+.link {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #292D32;
+    transition: all .2s linear;
+}
+
+.link:hover {
+    opacity: 0.7;
+}
+
+.lupa {
+    transition: all .2s linear;
+    cursor: pointer;
+}
+
+.lupa:hover {
+    opacity: 0.7;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 30px;
+}
+
+.profile_item {
+    background: #F9F9F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 49px;
+    height: 49px;
+    cursor: pointer;
+    position: relative;
+}
+
+.like {
+    width: 25px;
+    height: 25px;
+}
+
+.circle {
+    border-radius: 50%;
+    background: #48A4EB;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 16px;
+    height: 16px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+}

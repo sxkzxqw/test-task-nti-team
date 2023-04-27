@@ -1,0 +1,180 @@
+.section {
+    width: 100%;
+    background: rgba(242, 242, 242, 1);
+    height: 700px;
+    padding-left: 249px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.dell {
+    text-transform: uppercase;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.685417) 5.87%, rgba(242, 242, 242, 0.7) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 350px;
+    font-weight: 900;
+}
+
+.dell_img {
+    position: absolute;
+    top: 97px;
+    z-index: 0;
+}
+
+.scroll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(-90deg);
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #838383;
+    gap: 16.5px;
+}
+
+.oval {
+    width: 25px;
+    height: 38.5px;
+    border: 2px solid #33A9FF;
+    transform: rotate(-90deg);
+    border-radius: 25.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+
+.line {
+    border: 1px solid #33A9FF;
+    transform: rotate(-90deg);
+    width: 6px;
+}
+
+.title_wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 1;
+    width: 400px;
+}
+
+.deliver {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+    color: #838383;
+    margin-bottom: 15px;
+}
+
+.scroll_text {
+    width: 113px;
+    height: 19px;
+}
+
+.items {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+    color: #292D32;
+    width: 446px;
+    height: 118px;
+    margin-bottom: 60px;
+}
+
+.btn_wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #33A9FF;
+    border: none;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    color: white;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 108px;
+    padding-top: 253px;
+}
+
+.noute {
+    max-width: 557px;
+    max-height: 555px;
+    padding-top: 74px;
+    position: relative;
+    z-index: 1;
+}
+
+.dell_text {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    color: #292D32;
+    width: 181px;
+    height: 96px;
+}
+
+.noute2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.second {
+    background: #F9F9F9;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 82px;
+    width: 509px;
+    padding-top: 320px;
+    padding-left: 40px;
+}
+
+.strelka {
+    width: 104px;
+    height: 21px;
+    cursor: pointer;
+}
+
+.slider_circles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    top: 505px;
+    right: 549px;
+    z-index: 2;
+}
+
+.slider_circle {
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    background: #D0D0D0;
+    cursor: pointer;
+}
+
+.active_circle {
+    background: #292D32;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
