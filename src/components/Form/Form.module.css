@@ -225,3 +225,70 @@
     color: white;
     cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+    .section {
+        height: auto;
+    }
+
+    .container {
+        width: 100%;
+        height: auto;
+        top: 0;
+        border-radius: 0;
+        flex-direction: column;
+    }
+
+    .iphone {
+        width: 86px;
+        height: 244px;
+        display: none;
+    }
+
+    .left {
+        width: 100%;
+        padding-left: 30px;
+        padding-bottom: 60px;
+    }
+
+    .left_contacts {
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .left_subcontacts {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 150%;
+    }
+
+    .whats {
+        margin-top: 15px;
+    }
+
+    .right {
+        width: 100%;
+        height: auto;
+        padding-top: 60px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 60px;
+    }
+
+    .right_title_text {
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .right_subtitle_text {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 150%;
+    }
+
+    .input {
+        max-width: 315px;
+    }
+}

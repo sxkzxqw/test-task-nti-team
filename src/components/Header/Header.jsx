@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <header className={styles.header}>
             <div className={styles.nav_container}>
-                <img src={logo} alt='logo' />
+                <img src={logo} alt='logo' className={styles.logo} />
                 <div className={styles.nav_links_container}>
                     <nav className={styles.nav}>
                         <a className={styles.link} href='#'>главная</a>
@@ -27,7 +27,7 @@ const Header = () => {
                 <li className={styles.profile_item}>
                     <img src={profileImg} alt='porfile' />
                 </li>
-                <li className={styles.profile_item}>
+                <li className={`${styles.profile_item} ${styles.none}`}>
                     <img src={graphic} alt='graphic' />
                 </li>
                 <li className={styles.profile_item}>

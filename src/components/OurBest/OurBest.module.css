@@ -116,3 +116,63 @@
     gap: 27px;
     margin: 48px 260px 0;
 }
+
+@media screen and (max-width: 768px) {
+    .noute {
+        width: 345px;
+    }
+
+    .best {
+        max-width: 335px;
+    }
+
+    .up {
+        padding: 0;
+        padding-top: 100px;
+        flex-direction: column;
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .title {
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 50px;
+        width: auto;
+        margin-bottom: 20px;
+    }
+
+    .description {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 150%;
+        width: auto;
+        margin-bottom: 30px;
+    }
+
+    .btn {
+        width: 45px;
+        height: 45px;
+    }
+
+    .section {
+        padding: 0;
+        height: auto;
+    }
+
+    .list {
+        margin: 0;
+        margin-top: 40px;
+        padding-bottom: 115px;
+        flex-direction: column;
+        gap: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .item {
+        width: 100%;
+    }
+}

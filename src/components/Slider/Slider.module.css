@@ -178,3 +178,111 @@
     border-radius: 50%;
     cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+    .scroll {
+        display: none;
+    }
+
+    .second {
+        position: relative;
+        z-index: 4;
+        padding: 0;
+        width: calc(100% + 30px);
+        display: flex;
+        flex-direction: row;
+        background: #F9F9F9;
+        height: 196px;
+    }
+
+    .dell_text {
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 130%;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    .noute2 {
+        height: 166px;
+        width: 252px;
+        position: absolute;
+        left: 118px;
+        top: 15px;
+        bottom: 15px;
+    }
+
+    .strelka {
+        width: 64px;
+        height: 14px;
+        position: absolute;
+        right: 15px;
+        top: -27px;
+    }
+
+    .slider_circles {
+        position: absolute;
+        gap: 10px;
+        left: 200px;
+        top: 563px;
+        z-index: 5;
+    }
+
+    .slider_circle {
+        width: 3px;
+        height: 3px;
+    }
+
+    .active_circle {
+        width: 5px;
+        height: 5px;
+    }
+
+    .dell_img {
+        width: 293px;
+        height: 77px;
+        position: absolute;
+        top: 18px;
+        left: 32px;
+    }
+
+    .deliver {
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 133.69%;
+        margin-bottom: 5px;
+    }
+
+    .items {
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 28px;
+        width: auto;
+        height: auto;
+    }
+
+    .btn {
+        width: 45px;
+        height: 45px;
+    }
+
+    .noute {
+        margin-top: 10px;
+        padding: 0;
+        width: 327px;
+        height: 325px;
+    }
+
+    .section {
+        padding-top: 18px;
+        padding-left: 15px;
+        padding-right: 15px;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .container {
+        padding-top: 80px;
+    }
+}

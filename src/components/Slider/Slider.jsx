@@ -29,7 +29,6 @@ const Slider = () => {
                 </div>
             </div>
             <img src={noute} alt='noute' className={styles.noute} />
-
             <div className={styles.second}>
                 <img src={noute2} alt='noute2' className={styles.noute2} />
                 <p className={styles.dell_text}>Выгодное предложение от Dell</p>
