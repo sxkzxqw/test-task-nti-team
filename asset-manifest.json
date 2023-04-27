@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/test-task-nti-team/static/css/main.5a0131c4.css",
+    "main.js": "/test-task-nti-team/static/js/main.d00f6e79.js",
+    "static/media/logo.svg": "/test-task-nti-team/static/media/logo.652388863bf261e0cb43b340baf784ed.svg",
+    "static/media/noutes.png": "/test-task-nti-team/static/media/noutes.6332ee7cdc28335df774.png",
+    "static/media/img6.png": "/test-task-nti-team/static/media/img6.0b8f9c35eb19d93cefb7.png",
+    "static/media/img3.png": "/test-task-nti-team/static/media/img3.e66d67c2aac394fac0cd.png",
+    "static/media/img4.png": "/test-task-nti-team/static/media/img4.bd4f9e9aaa24bbdaa07d.png",
+    "static/media/img1.png": "/test-task-nti-team/static/media/img1.8d4018505d94ef891f6a.png",
+    "static/media/img5.png": "/test-task-nti-team/static/media/img5.83b21910792970378fa6.png",
+    "static/media/Dell_Logo.svg": "/test-task-nti-team/static/media/Dell_Logo.d6f59ae2820f87d21ed699b1502274a7.svg",
+    "static/media/noutes2.png": "/test-task-nti-team/static/media/noutes2.9f5b8572c5117a60b232.png",
+    "static/media/iPhone-13-Pro-Max.png": "/test-task-nti-team/static/media/iPhone-13-Pro-Max.962dbe91db857ed9e2f4.png",
+    "static/media/img2.png": "/test-task-nti-team/static/media/img2.5dee1bcdeea2843cebfd.png",
+    "static/media/img7.png": "/test-task-nti-team/static/media/img7.f8fd9116c96df781b619.png",
+    "static/media/DELL.png": "/test-task-nti-team/static/media/DELL.8ba212e062d9b34fa4e7.png",
+    "static/media/Dell.svg": "/test-task-nti-team/static/media/Dell.7b96b8ec7bf323b6ca1640459dee7219.svg",
+    "static/media/whatsapp.svg": "/test-task-nti-team/static/media/whatsapp.819d66942a8f5a19348b602d7c5d5e1e.svg",
+    "static/media/graphicHeader.svg": "/test-task-nti-team/static/media/graphicHeader.5a30cc67df2124b05b23ddcc70baf53f.svg",
+    "static/media/call-calling.svg": "/test-task-nti-team/static/media/call-calling.5b55c9ba78a7d238e82c9d75d6ababe8.svg",
+    "static/media/people.svg": "/test-task-nti-team/static/media/people.21ae021376fe684ceb9dd98f5138a504.svg",
+    "static/media/korzina.svg": "/test-task-nti-team/static/media/korzina.a68abd34daaf748aded2a4c7b68d0d20.svg",
+    "static/media/done.svg": "/test-task-nti-team/static/media/done.11be23a41ffe57aa91999b680569a852.svg",
+    "static/media/lupa-zalupa.svg": "/test-task-nti-team/static/media/lupa-zalupa.175ae4df464c981a2e1ad5c96b95c30d.svg",
+    "index.html": "/test-task-nti-team/index.html",
+    "static/media/3dcube.svg": "/test-task-nti-team/static/media/3dcube.b0eb52e1f395775319d2ec20da063920.svg",
+    "static/media/card-pos.svg": "/test-task-nti-team/static/media/card-pos.e07dabfe70eae712b6f88b8a454c3a66.svg",
+    "static/media/like.svg": "/test-task-nti-team/static/media/like.1fc6bb11fad88f5f2fba0bdc884fc3a8.svg",
+    "static/media/profileIcon.svg": "/test-task-nti-team/static/media/profileIcon.d59feee4c591089f1c0bd898a7443062.svg",
+    "static/media/location.svg": "/test-task-nti-team/static/media/location.20bf1710020b9e1a66bfc2ba1b94b53f.svg",
+    "static/media/sms.svg": "/test-task-nti-team/static/media/sms.2bf297b1f0ab35d2fc51759e90f478cf.svg",
+    "static/media/facebook.svg": "/test-task-nti-team/static/media/facebook.bb2044287a41587567536b35fee316a9.svg",
+    "static/media/line.svg": "/test-task-nti-team/static/media/line.32268d1a57c01e432e633f76ecb39fdf.svg",
+    "static/media/strelka.svg": "/test-task-nti-team/static/media/strelka.12a1b180536846e7fb6398f1d5e31403.svg",
+    "main.5a0131c4.css.map": "/test-task-nti-team/static/css/main.5a0131c4.css.map",
+    "main.d00f6e79.js.map": "/test-task-nti-team/static/js/main.d00f6e79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a0131c4.css",
+    "static/js/main.d00f6e79.js"
+  ]
+}
